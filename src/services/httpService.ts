@@ -1,6 +1,6 @@
 import axios, { AxiosResponse } from "axios";
 
-const baseURL = "https://yoodahostelbd.herokuapp.com";
+const baseURL = "https://yooda-hostel-server-blue.vercel.app";
 
 const instance = axios.create({
   baseURL,
